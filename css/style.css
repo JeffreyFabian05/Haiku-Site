@@ -1,0 +1,44 @@
+/* External stylesheet for The Old Pond */
+body {
+    margin: 0;
+    background-color: #e8eee7;
+    color: #253b32;
+    font-family: Georgia, serif;
+    text-align: center;
+}
+
+.haiku-container {
+    width: 1200px;
+    margin: 36px auto;
+    background-color: #f9faf5;
+    box-shadow: 0 8px 30px rgba(28, 54, 41, 0.12);
+    overflow: hidden;
+}
+
+h1 {
+    font-size: 54px;
+    font-weight: normal;
+    margin: 0;
+    padding-top: 48px;
+    color: #244f3b;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: normal;
+    color: #667a69;
+    margin: 12px 0 24px;
+}
+
+.poem {
+    font-size: 29px;
+    line-height: 1.85;
+    margin: 0;
+    padding: 12px 0 42px;
+}
+
+.haiku-image {
+    display: block;
+    width: 1200px;
+    height: auto;
+}
